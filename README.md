@@ -1,3 +1,5 @@
+[![Quarto Publish](https://github.com/vanHeemstraSystems/use-case-management/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/use-case-management/actions/workflows/publish.yml)
+
 use-case-management
 # Use Case Management
 
